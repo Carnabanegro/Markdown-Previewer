@@ -1,0 +1,49 @@
+
+body{
+  background-color: #273c75;
+  margin: 10px 0;
+}
+
+.App{
+  flex:1
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.form-container{
+}
+#editor{
+  width: 60%;
+  height: 500px;
+  max-width: 90%;
+  max-height: 800px;
+  font-weight: bolder;
+  background-color: #00a8ff;
+
+}
+.editor-container{
+  width: 50%;
+  height: 50%;
+  
+}
+.preview-container{
+  width: 50%;
+  height: 50%;
+  color:white ;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+#preview {
+ 
+}
+
+
+
+
+
